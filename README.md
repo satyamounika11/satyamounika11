@@ -7,7 +7,6 @@ DevOps Engineer
 Navigating the best of both worlds: Mastering Servers and Pixels, seamlessly.
 
 * 🌍  I'm based in Hyderabad, Telangana, IND
-* ✉️  You can contact me at [satyamounika.mushini@gmail.com](mailto:satyamounika.mushini@gmail.com)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on DevOps Projects focused on skills: AWS, Docker, Kubernetes, Terraform etc and Front-End projects skills: HTML5, CSS3, Bootstrap5 and Javascript.
 * ⚡  I am looking for a DevOps Engineer role, Ping me if you have any interesting projects for ME.
