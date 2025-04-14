@@ -36,15 +36,6 @@ Navigating the best of both worlds: Mastering Servers and Pixels, seamlessly.
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/60/000000/external-ai-artificial-intelligence-flat-flat-juicy-fish.png" width="36" height="36" alt="Prompt Engineering" />
-  </a>
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="36" height="36" alt="Generative AI" />
   </a>
